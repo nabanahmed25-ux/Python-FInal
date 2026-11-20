@@ -3,7 +3,7 @@ CS 230 Final Project — NASA Fireballs (1988–2026) Explorer
 Author: Naban Ahmed
 Section: 7
 Dataset: NASA Fireballs (1988–2026) — nasa_fireballs.xlsx (sheet: 'in')
-Streamlit URL: [Add your Streamlit Community Cloud URL after deploying]
+Streamlit URL: https://python-final-mspspjqcuh2v3sirzgpezk.streamlit.app/
 Description: Interactive Streamlit app for a high school astronomy teacher to explore
 NASA fireball events (1988–2026), atmospheric entry energy vs. calculated impact
 energy (kt), yearly counts, and largest events across customizable year ranges,
